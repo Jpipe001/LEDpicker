@@ -18,8 +18,8 @@ Hex Codes
 
 Color Box
 
-And will light up selected LEDs on a chain, so you know exactly the color selected.
+Pressing the "Send Button" will upload the codes to an ESP32 with chain of LEDs and will light up the selected LEDs on that chain, so you know exactly what that color looks like.
 
-If it is not quite right, move the Sliders again and press the Button to Send Codes. 
+If it is not quite right, move the Sliders again and press the Button to send new codes. 
 
 And is fun to use!!

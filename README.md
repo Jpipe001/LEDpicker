@@ -2,6 +2,8 @@
 
 "Let's take it to the next level"
 
+This allows you to easily pick colors when using ESP32 and a String of LEDs.
+
 ![LEDpicker](https://github.com/user-attachments/assets/399f084c-d590-4dd8-b4fe-1f5459092c30)
 
 I have seen Color Charts with Hex Color codes and Decimal Color codes.

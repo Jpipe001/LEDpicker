@@ -132,7 +132,7 @@ String Web_Page() {
   html_code += ".color-picker {display: flex; flex-direction: column; align-items: center;}";
   html_code += ".slider {width: 300px; -webkit-appearance: none; appearance: none; height: 25px; border-radius: 12px; outline: none; opacity: 0.7; transition: opacity 0.2s;}";
   html_code += ".slider:hover {opacity: 1;}";
-  html_code += ".value-box {width: 40px; margin-left: 10px; text-align: center; border: none;}";
+  html_code += ".value-box {width: 40px; margin-left: 10px; font-size: 18px; text-align: center; border: none;}";
   html_code += "#redSlider {background-color: #f00;}";
   html_code += "#greenSlider {background-color: #0f0;}";
   html_code += "#blueSlider {background-color: #00f;}";

@@ -154,7 +154,7 @@ String Web_Page() {
   html_code += "<tr><td>Url Address : </td><td>" +  SW_addr + "</td></tr></table><p><p>";
 
   //***********   TABLE   ***********
-  html_code += "<div class='color-picker'><table><tr><th>Color</th><th>Slider and Value</th><th>Color Box</th></tr>";
+  html_code += "<div class='color-picker'><table><tr><th>Color</th><th>Slider and Decimal Value</th><th>Color Box</th></tr>";
   
   html_code += "<tr><td>Red</td><td><input type='range' class='slider' id='redSlider' min='0' max='255' value='128'>";
   html_code += "<input type='text' class='value-box' id='redValue' value='128' readonly></td>";
